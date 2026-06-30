@@ -9,9 +9,9 @@
 <body>
     <section class="hero-container">
         <div class="profile-pic-wrapper">
-            <img src="assets/profile.jpg" alt="Govarthini Profile">
+            <img src="assets/profile.jpg" alt="Praveen Profile">
         </div>
-        <h1 class="name-title">Govarthini</h1>
+        <h1 class="name-title">Praveen</h1>
         <p class="tagline">Computer Science Student | Web Developer | Future AI Engineer</p>
         <a href="portfolio.html" class="cta-button">⚡ Access Portfolio</a>
     </section>
